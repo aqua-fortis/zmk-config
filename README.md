@@ -5,6 +5,8 @@ Switching from a staggered to a corne keyboard can be challenging, as it initial
 
 The name is inspired by Taylor Swift's 10th album *Midnights* and my sleepless nights spent building this layout, during which the album kept me company, with Anti-Hero playing on an endless loop.
 
+If you'd like to use this layout, go to Actions > Find the last one with name pattern "Merge pull request #N from ..." > Scroll down until you find the arctifacts and download the firmware.
+
 ### Layout philosophy
 > [!NOTE]
 > This is a work in progress.
@@ -23,5 +25,12 @@ The name is inspired by Taylor Swift's 10th album *Midnights* and my sleepless n
 
 ![Raise layer](images/raise_layer.png)
 
+![Config layer](images/config_layer.png)
+
 > [!IMPORTANT]  
 > The symbols \` and ~ on a Mac US keyboard yield § and ±, respectively. To correctly generate ` on raise layer, British English must be activated. However, ~ still does not produce ~ and instead generates ¬.
+
+## Combos
+![Combos](images/combos.png)
+
+Layout viewer: https://nickcoutsos.github.io/keymap-editor/
